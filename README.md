@@ -42,4 +42,3 @@
 
 
 <a href="https://www.linkedin.com/in/amar-kumar-soni/"><img  height="50px" width="50px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-<a href="https://codesandbox.io/u/anushaAnu333"><img height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/></a>
